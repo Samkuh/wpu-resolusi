@@ -3,9 +3,11 @@ RENCANA KONTEN WPU
 - javaScript
 -- ES6
 -- FrameWork JavaScript
---- Angular
+--- Vue
 --- React
+- Struktur Data Dasar
 - PHP
 -- Laravel
 - Interview
 - Vlog
+-Python
