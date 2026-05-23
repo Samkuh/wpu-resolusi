@@ -4,3 +4,4 @@ WPU RESOLUSI
 - Membuat Jadwal Belajar
 - Membuat Bisnis Kopi
 - Membuat Content 
+- Memulai Karir Kerja
